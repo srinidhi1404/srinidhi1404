@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**srinidhi1404/srinidhi1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### This is Srinidhi.
 
-Here are some ideas to get you started:
+- 👩‍💻 I worked at Accenture as Java Developer and Data Engineer for 2.9 years.
+- 🕮 I'm currently pursuing Masters at Northwest Missouri State University
+- 🔭 I’m currently working on being a better version of myself
+- 🌱 I’m currently learning many things
+- 💬 Ask me about anything. 
+- 📫 How to reach me: balmurisrinidhi@gmail.com
+- 😄 Pronouns: she/her
+- 📷 I enjoy clicking pictures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### AI will be the future of the entire world and I would love to work on it.
+
+
+
