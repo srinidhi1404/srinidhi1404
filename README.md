@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on being a better version of myself 😛
 - 🌱 I’m currently learning many things
 - 💬 Ask me about anything. 
-- 📫 How to reach me: balmurisrinidhi@gmail.com <br>
+- 📫 How to reach me: srinidhib1497@gmail.com <br>
 -    LinkedIn: https://www.linkedin.com/in/srinidhi-balmuri/
 - 😄 Pronouns: she/her
 - 📷 I enjoy clicking pictures.
