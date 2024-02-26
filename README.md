@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning many things
 - 💬 Ask me about anything. 
 - 📫 How to reach me: srinidhib1497@gmail.com <br>
--    LinkedIn: https://www.linkedin.com/in/srinidhi-balmuri/
+-    LinkedIn: https://www.linkedin.com/in/srinidhib14/
 - 😄 Pronouns: she/her
 - 📷 I enjoy clicking pictures.
 
