@@ -2,7 +2,6 @@
 
 #### This is Srinidhi 😃.
 
-- 👩‍💻 I worked at Accenture as Java Developer and Data Engineer for 2.9 years.
 - 🕮 I'm currently pursuing Masters at Northwest Missouri State University
 - 🔭 I’m currently working on being a better version of myself 😛
 - 🌱 I’m currently learning many things
